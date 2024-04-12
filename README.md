@@ -1,1 +1,1 @@
-# git-utils
+# pull-request-bot
