@@ -1,0 +1,8 @@
+client/dist
+node_modules
+client/node_modules
+package.json
+client/package.json
+bun.lockb
+client/bun.lockb
+client/public
